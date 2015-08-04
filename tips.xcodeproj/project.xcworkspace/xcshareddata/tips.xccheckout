@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>19F1E6A6-F4BF-416E-9F5E-4D5CF374B184</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>tips</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>7856D529725D07845EFFFC5D7DF5636DD700FA02</key>
 		<string>https://github.com/siddhivakil/tips</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>tips.xcodeproj/project.xcworkspace</string>
+	<string>tips.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>7856D529725D07845EFFFC5D7DF5636DD700FA02</key>
